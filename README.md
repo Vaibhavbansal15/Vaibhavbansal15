@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">Hello, I'm Vaibhav Bansal!<br><br>🚀 Aspiring Android Developer | Problem Solver in C++<br><br>🌐 Passionate about crafting mobile experiences with Java and Kotlin, I'm on a journey to master the intricacies of Android development. My love for solving complex problems extends to C++.<br><br>💻 Currently exploring the world of mobile app development, I'm dedicated to honing my skills and contributing to the vibrant tech community. Join me on this exciting coding adventure!<br><br>📫 Let's connect:<br><br>LinkedIn: https://www.linkedin.com/in/vaibhav-bansal-845039224/</p>
+<p align="left">Android Developer | Kotlin | MVVM | Firebase
+
+Building scalable Android apps with clean architecture and real-world features like payments, authentication, and data-driven workflows. Passionate about solving problems and creating impactful mobile experiences. Join me on this exciting coding adventure!<br><br>📫 Let's connect:<br><br>LinkedIn: https://www.linkedin.com/in/vaibhav-bansal-845039224/</p>
 
 ###
 
