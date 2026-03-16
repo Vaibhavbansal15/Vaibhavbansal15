@@ -1,46 +1,121 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi 👋 I'm Vaibhav Bansal
 
-###
+### Android Developer | Kotlin | MVVM | Jetpack Compose
 
-<h3 align="left">I'm Vaibhav</h3>
+Android Developer with **1+ year of experience building scalable production mobile applications**.  
+I specialize in **Kotlin-based Android development**, building clean and maintainable apps using modern Android architecture and improving user experience through performance optimization.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🚀 About Me
 
-###
+- 📱 Android Developer with **production-level experience**
+- ⚙️ Delivered **70+ features across 40+ modules** in a large-scale property management app
+- 🧠 Strong in **problem solving, debugging production issues, and crash analysis**
+- 🏗 Experience with **MVVM architecture, Jetpack Compose, and scalable Android development**
+- 🤝 Collaborative developer focused on building impactful mobile products
 
-<p align="left">Android Developer | Kotlin | MVVM | Firebase
+---
 
-Building scalable Android apps with clean architecture and real-world features like payments, authentication, and data-driven workflows. Passionate about solving problems and creating impactful mobile experiences. Join me on this exciting coding adventure!<br><br>📫 Let's connect:<br><br>LinkedIn: https://www.linkedin.com/in/vaibhav-bansal-845039224/</p>
+## 🛠 Tech Stack
 
-###
+### Mobile Development
+- Kotlin
+- Java
+- Android SDK
+- Jetpack Compose
+- XML UI
 
-<h2 align="left">I code with</h2>
+### Architecture & Libraries
+- MVVM Architecture
+- Coroutines
+- Retrofit
+- AndroidX Navigation
+- RecyclerView
+- Lottie Animations
 
-###
+### Backend & APIs
+- REST APIs
+- Firebase Authentication
+- Firebase Realtime Database
+- Firebase Storage
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-</div>
+### Tools
+- Android Studio  
+- Git & GitHub  
+- Postman  
+- Jenkins  
+- Figma  
 
-###
+### Programming Languages
+Kotlin • Java • C++ • Python • SQL
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaibhavbansal15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Vaibhavbansal15&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+---
 
-###
+## 💼 Professional Experience
+
+### Software Engineer L1 — CRIB (Property Management Platform)
+- Delivered **70+ features across 40+ modules** improving app functionality and scalability.
+- Implemented **white-label architecture for 20+ client apps**.
+- Migrated legacy UI components from **XML to Jetpack Compose** improving performance.
+- Fixed production crashes and documented **Root Cause Analysis (RCA)** reports.
+- Built **In-App Subscription systems, dashboards, and reporting tools**.
+
+### Android Developer Intern — Jaypee Hospital
+- Developed an Android application to **digitize ICU hand hygiene documentation**.
+- Replaced manual workflows with a **data-driven mobile solution**.
+- Implemented Firebase authentication and real-time data management.
+
+---
+
+## 📱 Featured Projects
+
+### JIIT StudySync
+Android application that helps students access **previous year question papers and study resources**.
+
+**Features**
+- PYQ analysis and exam prediction
+- Secure note sharing
+- Firebase authentication and storage
+
+**Tech Stack**
+Kotlin • Firebase • XML
+
+---
+
+### Timetable Assistance App
+Android application enabling students and faculty to **view timetables in Day and Week formats**.
+
+**Features**
+- Firebase Authentication
+- Real-time timetable updates
+- Clean and simple UI
+
+**Tech Stack**
+Kotlin • Firebase • XML
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavbansal15&layout=compact)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Android Architecture
+- Scalable mobile system design
+- Android performance optimization
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Vaibhavbansal15  
+- LinkedIn: https://linkedin.com/in/vaibahv-bansal  
+- Email: vaibhavbansal1501@gmail.com
+
+---
+
+⭐ Always open to collaborating on interesting Android projects and building impactful mobile products.
